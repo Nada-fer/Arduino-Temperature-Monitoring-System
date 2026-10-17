@@ -80,27 +80,25 @@ The circuit was designed and simulated in Tinkercad to test the temperature moni
 
 The following screenshots illustrate the circuit design and its behavior under different temperature conditions.
 
+- *Complete circuit design.*
 ![Tinkercad circuit](screenshots/tinkercad-circuit.png)
 
-*Complete circuit design.*
-
+- *Normal temperature condition.*
 ![Normal temperature](screenshots/tinkercad-normal.png)
 
-*Normal temperature condition.*
-
+- *High-temperature alert condition.*
 ![Temperature alert](screenshots/tinkercad-alerte1.png)
 
-*High-temperature alert condition.*
-
+- *low-temperature alert condition.*
 ![Temperature alert](screenshots/tinkercad-alerte2.png)
 
-*low-temperature alert condition.*
+
 
 ## Physical Implementation
 
 The project was also implemented using physical hardware available at school.
 
-![Physical implementation](screenshots/physical-project.png)
+![Physical implementation](screenshots/physical-project.jpeg)
 
 *Photograph of the physical implementation. The image quality is limited because the photograph was captured several months ago.*
 ## Author

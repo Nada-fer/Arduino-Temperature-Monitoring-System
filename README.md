@@ -19,10 +19,11 @@ The project was simulated using Tinkercad Circuits and also implemented with phy
 
 ## Temperature Thresholds
 
-| Temperature | Status | LED Indicator | Buzzer |
-| ≤ 16°C      | Cold   | Green         | ON     |
-| 17–36°C     | Normal | Yellow        | OFF    |
-| ≥ 37°C      | Alert  | Red           | ON     |
+| Temperature Range | Status | LED Indicator | Buzzer |
+|---|---|---|---|
+| ≤ 16°C | Cold | Green | ON |
+| 17–36°C | Normal | Yellow | OFF |
+| ≥ 37°C | Alert | Red | ON |
 
 ## Components
 
